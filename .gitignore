@@ -1,0 +1,6 @@
+# Ignorar todos los archivos .txt
+*.txt
+
+# No ignorar el archivo importante.txt
+!importante.txt
+
