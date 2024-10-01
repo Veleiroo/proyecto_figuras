@@ -4,3 +4,6 @@
 # No ignorar el archivo importante.txt
 !importante.txt
 
+# Ignorar archivos .pyc
+*.pyc
+
