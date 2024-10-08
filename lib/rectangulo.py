@@ -1,5 +1,5 @@
 def get_identificador() -> str:
-    return "rectángulo"
+    return "Rectángulo"
 
 def get_area(base: int, altura: int) -> float:
     return base * altura

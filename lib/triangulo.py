@@ -1,7 +1,7 @@
 # Archivo: triangulo.py
 
 def get_identificador() -> str:
-    return "triángulo"
+    return "Triángulo"
 
 def get_area(base: int, altura: int) -> float:
     """
